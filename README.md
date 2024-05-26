@@ -1,4 +1,6 @@
 # odoo16建設環境 
+參賽連結:https://ithelp.ithome.com.tw/users/20163098/ironman/6744?page=1
+
 
 在使用odoo之前，我們需要把環境先準備好，這篇文章主要使用Windows11來做為示範，而odoo的安裝方式有很多種，
 在這邊我們使用Source的方式來進行安裝。
